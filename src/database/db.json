@@ -1,0 +1,82 @@
+{
+  "application": {
+    "name": "The wedding of Vaishnavi & Hemant",
+    "description": "The wedding of Vaishnavi & Hemant. 22 May 2025",
+    "version": "1.0.0"
+  },
+  "wedding": {
+    "akad": {
+      "tanggal": "21 May 2025",
+      "jam": "07:00 PM",
+      "lokasi": "Shehnai Lawn",
+      "alamat": "2W9J+J8M, Nagpur Rd, Chandangaon, Chhindwara, Madhya Pradesh",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/jCLMcV3V4rJb3tWU7",
+        "iframeSrc": 
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5200.008108295695!2d78.92698025253814!3d22.019994950337264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd568cce049f52b%3A0x8a5c4ef0155c8bc9!2sShehnai%20Lawn!5e1!3m2!1sen!2sin!4v1746861659982!5m2!1sen!2sin"
+      }
+        
+    },
+    "resepsi": {
+      "tanggal": "22 May 2025",
+      "jam": "8:30 PM",
+      "lokasi": "Shehnai Lawn",
+      "alamat": "2W9J+J8M, Nagpur Rd, Chandangaon, Chhindwara, Madhya Pradesh",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/jCLMcV3V4rJb3tWU7",
+        "iframeSrc":
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5200.008108295695!2d78.92698025253814!3d22.019994950337264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd568cce049f52b%3A0x8a5c4ef0155c8bc9!2sShehnai%20Lawn!5e1!3m2!1sen!2sin!4v1746861659982!5m2!1sen!2sin"
+      }
+    },
+    "haldi": {
+      "tanggal": "21 May 2025",
+      "jam": "10:30 AM",
+      "lokasi": "Shehnai Lawn",
+      "alamat": "2W9J+J8M, Nagpur Rd, Chandangaon, Chhindwara, Madhya Pradesh",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/jCLMcV3V4rJb3tWU7",
+        "iframeSrc":
+        "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5200.008108295695!2d78.92698025253814!3d22.019994950337264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd568cce049f52b%3A0x8a5c4ef0155c8bc9!2sShehnai%20Lawn!5e1!3m2!1sen!2sin!4v1746861659982!5m2!1sen!2sin"
+      }
+    },
+    "mempelai": {
+      "pria": {
+        "namaDepan": "Vaishnavi",
+        "namaBelakang": "Gajul",
+        "namaPanggilan": "Ipul",
+        "orangTua": {
+          "keterangan": "(d/o Ambadas Mallayya Gajul & Smt. Gayatri Gajul)",
+          "pria": "",
+          "wanita": ""
+        },
+        "foto": "/assets/images/galeri/Vaishnavi.jpeg",
+        "bg": "rgb(229, 229, 203)"
+      },
+      "wanita": {
+        "namaDepan": "Hemant",
+        "namaBelakang": "Bihare",
+        "namaPanggilan": "Hemant",
+        "orangTua": {
+          "keterangan": "(s/o Nanu Kumar Bihare & Smt. Mina Bihare)",
+          "pria": "",
+          "wanita": ""
+        },
+        "foto": "/assets/images/galeri/Hemant.jpeg",
+        "bg": "rgb(213, 206, 163)"
+      }
+    }
+  },
+  "hero": {
+    "banner": "/assets/images/galeri/banner.jpeg"
+  },
+  "galeri": [
+    "/assets/images/galeri/pp-1.jpeg",
+    "/assets/images/galeri/pp-2.jpeg",
+    "/assets/images/galeri/pp-3.jpeg",
+    "/assets/images/galeri/pp-4.jpeg",
+    "/assets/images/galeri/pp-5.jpeg",
+    "/assets/images/galeri/pp-6.jpeg",
+    "/assets/images/galeri/pp-7.jpeg",
+    "/assets/images/galeri/pp-8.jpeg"  
+  ]
+}

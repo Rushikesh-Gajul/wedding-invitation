@@ -32,7 +32,7 @@ const textVariants = {
  */
 const Tanggal = () => {
   const textHeader = "In the Tapestry of Love: Our Joyful Wedding Event Will Soon Illuminate the Skies.";
-  const { akad, resepsi, haldi } = useDB((db) => db.wedding);
+  const { akad, resepsi, haldi,receiption } = useDB((db) => db.wedding);
 
   return (
     <Container sx={{ py: 15 }}>
@@ -66,7 +66,7 @@ const Tanggal = () => {
           <Divider />
         </Grid>
 
-        <Grid item md={4} xs={12}>
+        <Grid item md={3} xs={12}>
           <CardTanggal
             title="Haldi"
             tanggal={haldi.tanggal}
@@ -77,7 +77,7 @@ const Tanggal = () => {
           />
         </Grid>
 
-        <Grid item md={4} xs={12}>
+        <Grid item md={3} xs={12}>
           <CardTanggal
             title="Sangeet"
             tanggal={akad.tanggal}
@@ -88,14 +88,24 @@ const Tanggal = () => {
           />
         </Grid>
 
-        <Grid item md={4} xs={12}>
+        <Grid item md={3} xs={12}>
           <CardTanggal
-            title="Wedding On"
+            title="Wedding"
             tanggal={resepsi.tanggal}
             jam={resepsi.jam}
             lokasi={resepsi.lokasi}
             alamat={resepsi.alamat}
             link={resepsi.gmaps.link}
+          />
+          </Grid>
+        <Grid item md={3} xs={12}>
+          <CardTanggal
+            title="Receiption"
+            tanggal={receiption.tanggal}
+            jam={receiption.jam}
+            lokasi={receiption.lokasi}
+            alamat={receiption.alamat}
+            link={receiption.gmaps.link}
           />
         </Grid>
       </Grid>

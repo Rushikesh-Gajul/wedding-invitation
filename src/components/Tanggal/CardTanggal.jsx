@@ -198,7 +198,7 @@ const CardTanggal = ({ title, tanggal, jam, lokasi, alamat, link }) => {
         </Typography>
       </CardContent>
 
-      <CardActions sx={{ p: 2 }}>
+      <CardActions sx={{ p: 1 }}>
         <Button
           component={motion.a}
           variants={iconVariants}
@@ -213,7 +213,7 @@ const CardTanggal = ({ title, tanggal, jam, lokasi, alamat, link }) => {
           rel="noopener noreferrer"
           sx={{ borderRadius: 0 }}
         >
-        Show Location On Google Maps
+        View Location On Maps
         </Button>
       </CardActions>
     </Card>

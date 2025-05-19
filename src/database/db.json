@@ -39,13 +39,24 @@
         "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5200.008108295695!2d78.92698025253814!3d22.019994950337264!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd568cce049f52b%3A0x8a5c4ef0155c8bc9!2sShehnai%20Lawn!5e1!3m2!1sen!2sin!4v1746861659982!5m2!1sen!2sin"
       }
     },
+    "receiption": {
+      "tanggal": "28 May 2025",
+      "jam": "8:00 PM",
+      "lokasi": "Dussa Events",
+      "alamat": "Near Lakshmi Narayan Talkies Bhadravathi Shopping Centre, Old Kumbhari Rd, Solapur",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/PSCjjtWkPTmuwk9H8",
+        "iframeSrc":
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d620.0976625925233!2d75.92878649064104!3d17.657745910068112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc5db4cdbeab1bb%3A0x3b45c8b5c4f42f4f!2sR%20R%20Dussa%20Events%20(Garden%20%26%20Hall)!5e1!3m2!1sen!2sin!4v1747418001396!5m2!1sen!2sin"
+      }
+    },
     "mempelai": {
       "pria": {
         "namaDepan": "Vaishnavi",
         "namaBelakang": "Gajul",
         "namaPanggilan": "Ipul",
         "orangTua": {
-          "keterangan": "(D/O Dr.Ambadas Mallayya Gajul & Smt. Gayatri Gajul)",
+          "keterangan": "(d/o Ambadas Mallayya Gajul & Smt. Gayatri Gajul)",
           "pria": "",
           "wanita": ""
         },
@@ -57,7 +68,7 @@
         "namaBelakang": "Bihare",
         "namaPanggilan": "Hemant",
         "orangTua": {
-          "keterangan": "(S/O Nanu Kumar Bihare & Smt. Mina Bihare)",
+          "keterangan": "(s/o Nanu Kumar Bihare & Smt. Mina Bihare)",
           "pria": "",
           "wanita": ""
         },
